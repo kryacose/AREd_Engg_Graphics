@@ -1,5 +1,5 @@
 # AREd_Engg_Graphics
-| AREd: Engg Graphics  |   |
+
 | -------  | -------  |
 | App Link  | AREd.apk  |
 | Team Name  | Radicals  |
