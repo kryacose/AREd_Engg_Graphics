@@ -9,7 +9,7 @@
 | Authors | [Kuriakose Eldho](https://github.com/kryacose) \n [Kurien Eapen](https://github.com/KurienEapen) |
 
 
-| First Header  | Second Header |
+| AREd: Engg Graphics |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
