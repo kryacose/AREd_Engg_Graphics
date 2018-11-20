@@ -1,4 +1,6 @@
 # AREd_Engg_Graphics
+|AREd: Engg Graphics|
+|-------|-------|
 | App Link | AREd.apk |
 | Team Name | Radicals |
 | Description | An interactive AR app to make learning Engineering Graphics easier. |
