@@ -25,6 +25,10 @@ The Sandbox mode lets you create your own 3D models to answer any question not p
 ### Solids and Sections mode:
 The solids and sections mode lets the user choose a shape and a cutting plane. To use it all you need to do is select solids and sections mode in the custom page. Then you can choose the shape, its dimensions, the height and angle of the cutting plane (for best results keep dimensions between 2 and 10). You also have the choice of viewing the final shape in AR.
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ULkgIpTg0_M
+" target="_blank"><img src="http://img.youtube.com/vi/ULkgIpTg0_M/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
 
 
