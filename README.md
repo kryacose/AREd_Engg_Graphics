@@ -30,7 +30,7 @@ The solids and sections mode lets the user choose a shape and a cutting plane. T
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ULkgIpTg0_M/0.jpg)](http://www.youtube.com/watch?v=ULkgIpTg0_M)
 
 
 | Information  |   |
