@@ -31,7 +31,7 @@ The solids and sections mode lets the user choose a shape and a cutting plane. T
 
 | Information  |   |
 | -------  | -------  |
-| App Link  | AREd.apk  |
+| App Link  | [ARGraphics.apk](https://github.com/kryacose/AREd_Engg_Graphics/blob/master/Code/AR%20Graphics.apk)  |
 | Team Name  | Radicals  |
 | Description  | An interactive AR app to make learning Engineering Graphics easier.  |
 | License  | [MIT License](https://github.com/kryacose/AREd_Engg_Graphics/blob/master/LICENSE)  |
