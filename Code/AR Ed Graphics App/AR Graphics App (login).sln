@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Graphics App (login).Plugins", "AR Graphics App (login).Plugins.csproj", "{DBE77A1B-1275-9D75-1417-6066C7DD19AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Graphics App (login)", "AR Graphics App (login).csproj", "{BCBF7C7C-00EB-10AD-96F9-4B85C683811B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Graphics App (login).Editor.Plugins", "AR Graphics App (login).Editor.Plugins.csproj", "{C2F05F9E-613F-0E5C-EE0F-47E1750B64D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Graphics App (login).Editor", "AR Graphics App (login).Editor.csproj", "{706CB310-D9AE-2930-E892-28F57B50BA56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE77A1B-1275-9D75-1417-6066C7DD19AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE77A1B-1275-9D75-1417-6066C7DD19AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE77A1B-1275-9D75-1417-6066C7DD19AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE77A1B-1275-9D75-1417-6066C7DD19AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCBF7C7C-00EB-10AD-96F9-4B85C683811B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBF7C7C-00EB-10AD-96F9-4B85C683811B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBF7C7C-00EB-10AD-96F9-4B85C683811B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBF7C7C-00EB-10AD-96F9-4B85C683811B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2F05F9E-613F-0E5C-EE0F-47E1750B64D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F05F9E-613F-0E5C-EE0F-47E1750B64D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F05F9E-613F-0E5C-EE0F-47E1750B64D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F05F9E-613F-0E5C-EE0F-47E1750B64D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{706CB310-D9AE-2930-E892-28F57B50BA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706CB310-D9AE-2930-E892-28F57B50BA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706CB310-D9AE-2930-E892-28F57B50BA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706CB310-D9AE-2930-E892-28F57B50BA56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

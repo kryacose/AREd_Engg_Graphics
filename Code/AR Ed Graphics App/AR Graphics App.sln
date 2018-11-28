@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Graphics App", "Assembly-CSharp-firstpass.csproj", "{F9E78736-239B-819C-2047-E27FFA599982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Graphics App", "Assembly-CSharp.csproj", "{D759ACDE-B491-4D3D-4643-760D5C5B235E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Graphics App", "Assembly-CSharp-Editor-firstpass.csproj", "{4950A56F-B98E-2BB9-3E46-9A49286F0A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Graphics App", "Assembly-CSharp-Editor.csproj", "{1677DF37-C3BA-72D5-24AE-FFA8D7028570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9E78736-239B-819C-2047-E27FFA599982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9E78736-239B-819C-2047-E27FFA599982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9E78736-239B-819C-2047-E27FFA599982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9E78736-239B-819C-2047-E27FFA599982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D759ACDE-B491-4D3D-4643-760D5C5B235E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D759ACDE-B491-4D3D-4643-760D5C5B235E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D759ACDE-B491-4D3D-4643-760D5C5B235E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D759ACDE-B491-4D3D-4643-760D5C5B235E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4950A56F-B98E-2BB9-3E46-9A49286F0A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4950A56F-B98E-2BB9-3E46-9A49286F0A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4950A56F-B98E-2BB9-3E46-9A49286F0A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4950A56F-B98E-2BB9-3E46-9A49286F0A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1677DF37-C3BA-72D5-24AE-FFA8D7028570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1677DF37-C3BA-72D5-24AE-FFA8D7028570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1677DF37-C3BA-72D5-24AE-FFA8D7028570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1677DF37-C3BA-72D5-24AE-FFA8D7028570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
